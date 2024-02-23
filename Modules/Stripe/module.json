@@ -1,0 +1,16 @@
+{
+    "name": "Stripe",
+    "alias": "stripe",
+    "version": "1.1",
+    "description": "",
+    "keywords": [],
+    "priority": 150,
+    "providers": [
+        "Modules\\Stripe\\Providers\\StripeServiceProvider",
+        "Modules\\Stripe\\Providers\\ViewComposer"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "display": true
+}
