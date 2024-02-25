@@ -1,10 +1,10 @@
 {
-    "ProductService": false,
-    "Taskly": false,
-    "Account": false,
-    "Hrm": false,
-    "Pos": false,
-    "Lead": false,
-    "Stripe": false,
-    "Paypal": false
+    "ProductService": true,
+    "Taskly": true,
+    "Account": true,
+    "Hrm": true,
+    "Pos": true,
+    "Lead": true,
+    "Stripe": true,
+    "Paypal": true
 }

@@ -1,0 +1,34 @@
+a:4:{s:6:"_token";s:40:"zEjSbqhJgiIIeUzt703P4eUFy0421AITGCjCCt7p";s:7:"message";a:3:{s:6:"status";s:7:"success";s:7:"message";s:44:"Application has been successfully installed.";s:11:"dbOutputLog";s:1529:"
+   INFO  Running migrations.  
+
+  1_create_first_table .......................................... 9,469ms DONE
+
+
+   INFO  Seeding database.  
+
+  Database\Seeders\SidebarMenu ....................................... RUNNING  
+  Database\Seeders\SidebarMenu ................................. 58.86 ms DONE  
+
+  Database\Seeders\EmailTemplates .................................... RUNNING  
+  Database\Seeders\EmailTemplates ............................... 5.50 ms DONE  
+
+  Database\Seeders\NotificationsTableSeeder .......................... RUNNING  
+  Database\Seeders\NotificationsTableSeeder .................... 15.04 ms DONE  
+
+  Database\Seeders\Plans ............................................. RUNNING  
+  Database\Seeders\Plans ........................................ 1.66 ms DONE  
+
+  Database\Seeders\PermissionTableSeeder ............................. RUNNING  
+  Database\Seeders\PermissionTableSeeder .................... 1,073.83 ms DONE  
+
+  Database\Seeders\UserSeeder ........................................ RUNNING  
+  Database\Seeders\UserSeeder ................................... 1.83 ms DONE  
+
+  Database\Seeders\DefultSetting ..................................... RUNNING  
+  Database\Seeders\DefultSetting .............................. 242.67 ms DONE  
+
+  Database\Seeders\CustomFieldListTableSeeder ........................ RUNNING  
+  Database\Seeders\CustomFieldListTableSeeder ................... 0.81 ms DONE  
+
+  Database\Seeders\PreInstalledModule ................................ RUNNING  
+";}s:6:"_flash";a:2:{s:3:"new";a:0:{}s:3:"old";a:1:{i:0;s:7:"message";}}s:9:"_previous";a:1:{s:3:"url";s:38:"http://localhost:8000/install/database";}}
